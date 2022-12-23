@@ -9,3 +9,4 @@ tld
 rich
 google-cloud-secret-manager==2.5.0
 validators
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
